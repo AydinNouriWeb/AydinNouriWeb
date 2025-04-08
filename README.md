@@ -4,8 +4,7 @@
 
 
 # Hi👋, I'm Aydin Nouri
-
-Welcome to my GitHub! 🚀
+# I live by code.
 
 I'm an aspiring **frontend developer** building a strong foundation in web development. I have mastered **HTML**, **CSS**, and I’m currently learning **JavaScript** and **Bootstrap** to create dynamic and responsive designs.
 
