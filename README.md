@@ -1,6 +1,7 @@
 # Hello World
 
-![Work Flying GIF](./Work%20Flying%20GIF%20by%20Alliance.gif)
+![Work Flying GIF](./assets/Work%20Flying%20GIF%20by%20Alliance.gif)
+
 
 ## Introduction
 
