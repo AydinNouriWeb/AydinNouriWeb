@@ -20,8 +20,6 @@ I'm a developer who loves to explore the latest technologies and create impactfu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=306998)
 
-![GIF - Coding Animation](https://media.giphy.com/media/26AOB4m4CFOIhRRAI/giphy.gif)
-
 ## 📝 Projects
 
 ### 🚀 [Project 1](https://github.com/username/project1)
@@ -41,6 +39,5 @@ Another cool project I'm working on. Go ahead and see how it works!
 
 > "The best way to predict the future is to create it." – Peter Drucker
 
-![Code GIF](https://media.giphy.com/media/26FLkbuYxEvJvXUmo/giphy.gif)
+![Code GIF](https://media.giphy.com/media/M4bO94XIeXm5i/giphy.gif)
 
-> "Coding can change your world."
