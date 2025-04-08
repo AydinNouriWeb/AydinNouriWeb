@@ -39,5 +39,14 @@ Another cool project I'm working on. Go ahead and see how it works!
 
 > "The best way to predict the future is to create it." – Peter Drucker
 
+![Code GIF](https://media.giphy.com/media/1gP9EdhAF5tb6/giphy.gif)
+
+- 🐦 [Twitter](https://twitter.com/username)
+- 🧑‍💻 [GitHub](https://github.com/username)
+
+---
+
+> "The best way to predict the future is to create it." – Peter Drucker
+
 ![Code GIF](https://media.giphy.com/media/M4bO94XIeXm5i/giphy.gif)
 
