@@ -1,6 +1,6 @@
-# 🖤 Welcome to My Profile
+# Welcome to My Profile 🖤
 
-![Header GIF](https://media.giphy.com/media/l3vR2AeVVqX7W0tZa/giphy.gif)
+<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
 Hi there! I'm [Your Name], a passionate software developer and tech enthusiast. Here, you'll find my projects, my skills, and some fun facts about me!
 
